@@ -1,3 +1,5 @@
+快來用AR，掃描下方的圖片吧！
+
 ![Image of ARMenu](https://github.com/May-Chang/AR-Menu/images/菜單3.png)
 
 
