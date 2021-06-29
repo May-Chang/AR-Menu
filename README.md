@@ -1,4 +1,4 @@
-[Image of ARMenu](https://github.com/May-Chang/AR-Menu/images/菜單3.png)
+![Image of ARMenu](https://github.com/May-Chang/AR-Menu/images/菜單3.png)
 
 
 ## Welcome to GitHub Pages
