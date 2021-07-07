@@ -5,6 +5,7 @@
 ## APP下載網址
 
 Android：<https://reurl.cc/7r4nrD>
+
 iOS：<https://reurl.cc/Q9V87p>
 
 ## APP QRcode
