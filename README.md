@@ -13,7 +13,7 @@
 
 ## APP下載網址
 
-Android：<https://reurl.cc/7r4nrD>
+Android：<https://reurl.cc/xG4o9L>
 
 iOS：<https://reurl.cc/Q9V87p>
 
